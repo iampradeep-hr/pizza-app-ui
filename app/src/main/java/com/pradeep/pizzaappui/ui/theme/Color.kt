@@ -13,3 +13,9 @@ val Pink40 = Color(0xFF7D5260)
 
 val BackGroundColor=Color(0xFF1c1b1e)
 val BlueColor=Color(0xFF381e72)
+val ChipsColor=Color(0xFFE6E1E5)
+val SurfaceColor=Color(0xFF1C1B1F)
+val Primary=Color(0xFF6750A4)
+val PrimaryContainer=Color(0xFFEADDFF)
+val OnPrimary=Color(0xFF381E72)
+
